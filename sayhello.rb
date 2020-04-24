@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Sayhello < Formula
-  desc ""
-  homepage ""
-  url "https://github.com/phileba/sayhello/archive/v1.0.0.tar.gz"
-  sha256 "18a77689bd9f4b46b5a2cb0e3bb3f433b0a2efbf493ab27988f876075c951fb2"
+  desc "this is small test"
+  homepage "https://github.com/phileba/sayhello"
+  url "https://github.com/phileba/sayhello/archive/v2.0.0.tar.gz"
+  sha256 "a51f95b10b1d76ef42eea8bdd2117b289f65130ae2a60d6e596c95566f376f8f"
 
   # depends_on "cmake" => :build
 
